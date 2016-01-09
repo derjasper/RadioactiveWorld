@@ -1,0 +1,6 @@
+worlds:
+  - world
+permission: true
+armorcost: 8
+playerdamage: 1
+armordamage: 0.05
